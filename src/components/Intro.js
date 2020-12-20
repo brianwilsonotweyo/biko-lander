@@ -5,7 +5,7 @@ function Intro() {
     <section id="intro" class="clearfix">
       <div class="container">
         <div class="intro-img">
-          <img src="img/intro-img.svg" alt="" class="img-fluid" />
+          <img src="img/intro-img.gif" alt="" class="img-fluid" />
         </div>
 
         <div class="intro-info">
