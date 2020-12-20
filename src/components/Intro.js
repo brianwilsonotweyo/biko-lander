@@ -1,4 +1,5 @@
 import React from "react";
+import Modal from "./Sections/Modal";
 
 function Intro() {
   return (
@@ -23,6 +24,7 @@ function Intro() {
             <a href="#services" class="btn-services scrollto">
               Our Services
             </a>
+            <Modal/>
           </div>
         </div>
       </div>

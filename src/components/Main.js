@@ -15,7 +15,7 @@ function Main() {
       <About />
       <Services/>
       <Whyus />
-      <Portfolio />
+      {/* <Portfolio /> */}
       {/* <Testimonials /> */}
       <Team />
       <Clients />
