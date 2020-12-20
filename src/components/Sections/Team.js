@@ -18,7 +18,7 @@ function Team() {
               <img src="img/team-1.jpg" class="img-fluid" alt="" />
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Walter White</h4>
+                  <h4>Lupita Nyong'o</h4>
                   <span>Chief Executive Officer</span>
                   <div class="social">
                     <a href="">
@@ -44,7 +44,7 @@ function Team() {
               <img src="img/team-2.jpg" class="img-fluid" alt="" />
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Sarah Jhonson</h4>
+                  <h4>Danai Gurira</h4>
                   <span>Product Manager</span>
                   <div class="social">
                     <a href="">
@@ -70,7 +70,7 @@ function Team() {
               <img src="img/team-3.jpg" class="img-fluid" alt="" />
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>William Anderson</h4>
+                  <h4>Letitia Wright</h4>
                   <span>CTO</span>
                   <div class="social">
                     <a href="">
@@ -96,7 +96,7 @@ function Team() {
               <img src="img/team-4.jpg" class="img-fluid" alt="" />
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Amanda Jepson</h4>
+                  <h4>Buhari Jordan</h4>
                   <span>Accountant</span>
                   <div class="social">
                     <a href="">
