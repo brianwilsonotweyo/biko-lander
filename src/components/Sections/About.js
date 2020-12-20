@@ -6,60 +6,94 @@ function About() {
     <section id="about">
       <div class="container">
         <header class="section-header">
-          <h3>About Us</h3>
+          <h3>About BIKO</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Biko Group is a genuine partner that you can always rely on in times
+            of trouble. Get to know more of our products and services.
           </p>
         </header>
 
         <div class="row about-container">
           <div class="col-lg-6 content order-lg-1 order-2">
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat.
-            </p>
+            <h5>
+              Biko group has a wide suite of services and products that range
+              from Furniture, Real Estate, Financial Solutions,Tours and Car
+              Leasing
+            </h5>
 
-            <div class="icon-box wow fadeInUp">
+            {/* <div class="icon-box wow fadeInUp">
               <div class="icon">
                 <i class="fa fa-shopping-bag"></i>
               </div>
               <h4 class="title">
-                <a href="">Eiusmod Tempor</a>
+                <a href="">BIKO Real Estates</a>
               </h4>
               <p class="description">
-                Et harum quidem rerum facilis est et expedita distinctio. Nam
-                libero tempore, cum soluta nobis est eligendi
+                Now owning your dream house has been make easier with Biko. With
+                flexible payment terms, we bring your dream into reality
               </p>
-            </div>
-
-            <div class="icon-box wow fadeInUp" data-wow-delay="0.2s">
+            </div> */}
+            <div class="icon-box wow fadeInUp" data-wow-delay="0.4s">
               <div class="icon">
-                <i class="fa fa-photo"></i>
+                <i class="fa fa-binoculars"></i>
               </div>
               <h4 class="title">
-                <a href="">Magni Dolores</a>
+                <a href="">BIKO Tours</a>
               </h4>
               <p class="description">
-                Excepteur sint occaecat cupidatat non proident, sunt in culpa
-                qui officia deserunt mollit anim id est laborum
+                Book with Biko Tours and lets discover the Peal of Africa at
+                most friendly rates on the market.
+              </p>
+            </div>
+            <div class="icon-box wow fadeInUp" data-wow-delay="0.2s">
+              <div class="icon">
+                <i class="fa fa-gears"></i>
+              </div>
+              <h4 class="title">
+                <a href="">BIKO Mechanic</a>
+              </h4>
+              <p class="description">
+                Your genuine partner you can always rely on in times of trouble.
+                Get to know more of our products and services.
               </p>
             </div>
 
-            <div class="icon-box wow fadeInUp" data-wow-delay="0.4s">
+            {/* <div class="icon-box wow fadeInUp" data-wow-delay="0.4s">
               <div class="icon">
                 <i class="fa fa-bar-chart"></i>
               </div>
               <h4 class="title">
-                <a href="">Dolor Sitema</a>
+                <a href="">BIKO Furniture</a>
               </h4>
               <p class="description">
-                Minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                aliquip ex ea commodo consequat tarad limino ata
+                You can now own all the exquisite custom made Furniture for your
+                office and home needs.
+              </p>
+            </div> */}
+            <div class="icon-box wow fadeInUp" data-wow-delay="0.4s">
+              <div class="icon">
+                <i class="fa fa-money"></i>
+              </div>
+              <h4 class="title">
+                <a href="">BIKO Financial Solutions</a>
+              </h4>
+              <p class="description">
+                BIKO provides you with the much needed boost within 24 hr upon
+                application with unbeatable interest rates
               </p>
             </div>
+            {/* <div class="icon-box wow fadeInUp" data-wow-delay="0.4s">
+              <div class="icon">
+                <i class="fa fa-bar-chart"></i>
+              </div>
+              <h4 class="title">
+                <a href="">BIKO Car Leasing</a>
+              </h4>
+              <p class="description">
+                We will pick you up! Biko will find you and will lift you to
+                become your own boss in the shortest time possible.
+              </p>
+            </div> */}
           </div>
 
           <div class="col-lg-6 background order-lg-2 order-1 wow fadeInUp">
@@ -73,20 +107,14 @@ function About() {
           </div>
           <div class="col-lg-6 wow fadeInUp pt-5 pt-lg-0">
             <h4>
-              Voluptatem dignissimos provident quasi corporis voluptates sit
-              assumenda.
+              How to get access all of our flagship services at your convinience
             </h4>
             <p>
-              Ipsum in aspernatur ut possimus sint. Quia omnis est occaecati
-              possimus ea. Quas molestiae perspiciatis occaecati qui rerum.
-              Deleniti quod porro sed quisquam saepe. Numquam mollitia
-              recusandae non ad at et a.
-            </p>
-            <p>
-              Ad vitae recusandae odit possimus. Quaerat cum ipsum corrupti.
-              Odit qui asperiores ea corporis deserunt veritatis quidem expedita
-              perferendis. Qui rerum eligendi ex doloribus quia sit. Porro rerum
-              eum eum.
+              Biko Group has a wide suite of services and products that range
+              from Furniture, Real Estate, Financial Solutions,Tours and Car
+              Leasing most of these are individual services that are provided
+              either on our websites or mobile apps that you can preview in our
+              portfolio section
             </p>
           </div>
         </div>
@@ -97,25 +125,24 @@ function About() {
           </div>
 
           <div class="col-lg-6 wow fadeInUp pt-4 pt-lg-0 order-2 order-lg-1">
-            <h4>
-              Neque saepe temporibus repellat ea ipsum et. Id vel et quia
-              tempora facere reprehenderit.
-            </h4>
+            <h4>BIKO group is not just a brand but a community.</h4>
             <p>
-              Delectus alias ut incidunt delectus nam placeat in consequatur.
-              Sed cupiditate quia ea quis. Voluptas nemo qui aut distinctio.
-              Cumque fugit earum est quam officiis numquam. Ducimus corporis
-              autem at blanditiis beatae incidunt sunt.
+              Biko has a broad network ranging from partners to clients all of
+              whom are using our services and interacting with each other making
+              our platform robust so you'll be at home as everyone is considered
+              in our net work as equals
             </p>
             <p>
-              Voluptas saepe natus quidem blanditiis. Non sunt impedit voluptas
-              mollitia beatae. Qui esse molestias. Laudantium libero nisi vitae
-              debitis. Dolorem cupiditate est perferendis iusto.
+              As biko group we are constantly improving our services thus we use
+              only the latest and fastest technologies thus making sure you as
+              the customers and partners dont lag behind while accessing our
+              robust and secure services.
             </p>
             <p>
-              Eum quia in. Magni quas ipsum a. Quis ex voluptatem inventore sint
-              quia modi. Numquam est aut fuga mollitia exercitationem nam
-              accusantium provident quia.
+              As biko group we take all contributions from our community
+              seriously thus we use all your comments and feedback to constantly
+              improve the product adding in the most requested features from you
+              our customers as we consider you first before anything else.
             </p>
           </div>
         </div>

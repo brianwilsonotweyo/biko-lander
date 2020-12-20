@@ -9,10 +9,9 @@ function Footer() {
             <div class="col-lg-4 col-md-6 footer-info">
               <h3>BIKO</h3>
               <p>
-                Cras fermentum odio eu feugiat lide par naso tierra. Justo eget
-                nada terra videa magna derita valies darta donna mare fermentum
-                iaculis eu non diam phasellus. Scelerisque felis imperdiet proin
-                fermentum leo. Amet volutpat consequat mauris nunc congue.
+                Biko group offers the suite of services and products that range
+                from Furniture, Real Estate, Financial Solutions,Tours and Car
+                Leasing.
               </p>
             </div>
 
@@ -40,11 +39,12 @@ function Footer() {
             <div class="col-lg-3 col-md-6 footer-contact">
               <h4>Contact Us</h4>
               <p>
-                SN8 Lumumba Ave <br />
-                Kampala, K'la 535022
+                123 Fifth Avenue,
+                <br />
+                Kampala
                 <br />
                 Uganda <br />
-                <strong>Phone:</strong> +256 7589 55488
+                <strong>Phone:</strong> +256 800-123-456
                 <br />
                 <strong>Email:</strong> info@biko.com
                 <br />
@@ -72,9 +72,9 @@ function Footer() {
             <div class="col-lg-3 col-md-6 footer-newsletter">
               <h4>Our Newsletter</h4>
               <p>
-                Tamen quem nulla quae legam multos aute sint culpa legam noster
-                magna veniam enim veniam illum dolore legam minim quorum culpa
-                amet magna export quem marada parida nodela caramase seza.
+                Signup to our weekly newsletter to get access to discounts on
+                upcoming products and services as well as get weekly briefs on
+                our product features.
               </p>
               <form action="" method="post">
                 <input type="email" name="email" />
@@ -90,7 +90,7 @@ function Footer() {
           &copy; Copyright <strong>BIKO</strong>. All Rights Reserved
         </div>
         <div class="credits">
-          Designed by <a href="https://techub.com/">techub</a>
+          Designed by <a href="https://theclan.com/">theclan😋</a>
         </div>
       </div>
     </footer>

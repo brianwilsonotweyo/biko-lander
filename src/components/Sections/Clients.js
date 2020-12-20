@@ -5,10 +5,10 @@ function Clients() {
     <section id="clients" class="section-bg">
       <div class="container">
         <div class="section-header">
-          <h3>Our CLients</h3>
+          <h3>Our Top Tier CLients </h3>
           <p>
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque dere santome nida.
+            some of the big partners and clients that we are currently working
+            with to ensure constant service delivery.
           </p>
         </div>
 

@@ -7,8 +7,8 @@ function Whyus() {
         <header class="section-header">
           <h3>Why choose us?</h3>
           <p>
-            Laudem latine persequeris id sed, ex fabulas delectus quo. No vel
-            partiendo abhorreant vituperatoribus.
+            At BIKO we value your contributions as well as we push our selves to
+            offer the best services to our customers.
           </p>
         </header>
 
@@ -17,10 +17,12 @@ function Whyus() {
             <div class="card wow bounceInUp">
               <i class="fa fa-diamond"></i>
               <div class="card-body">
-                <h5 class="card-title">Corporis dolorem</h5>
+                <h5 class="card-title">
+                  High Quality services Instant Delivery Dedicated Team
+                </h5>
                 <p class="card-text">
-                  Deleniti optio et nisi dolorem debitis. Aliquam nobis est
-                  temporibus sunt ab inventore officiis aut voluptatibus.
+                  Our services and products are all 5star rated by most of our
+                  customers so youll be the judge by trying them out
                 </p>
                 <a href="#" class="readmore">
                   Read more{" "}
@@ -31,12 +33,12 @@ function Whyus() {
 
           <div class="col-lg-4 mb-4">
             <div class="card wow bounceInUp">
-              <i class="fa fa-language"></i>
+              <i class="fa fa-clock-o"></i>
               <div class="card-body">
-                <h5 class="card-title">Voluptates dolores</h5>
+                <h5 class="card-title">Instant Delivery</h5>
                 <p class="card-text">
-                  Voluptates nihil et quis omnis et eaque omnis sint aut.
-                  Ducimus dolorum aspernatur.
+                  our dedicated staff ensure that deliver all of our services to
+                  clients on time
                 </p>
                 <a href="#" class="readmore">
                   Read more{" "}
@@ -47,12 +49,12 @@ function Whyus() {
 
           <div class="col-lg-4 mb-4">
             <div class="card wow bounceInUp">
-              <i class="fa fa-object-group"></i>
+              <i class="fa fa-cog"></i>
               <div class="card-body">
-                <h5 class="card-title">Eum ut aspernatur</h5>
+                <h5 class="card-title">Dedicated Team</h5>
                 <p class="card-text">
-                  Autem quod nesciunt eos ea aut amet laboriosam ab. Eos quis
-                  porro in non nemo ex.{" "}
+                  our teams are constantly working around the clock to ensure
+                  that we offer high qauality services and products{" "}
                 </p>
                 <a href="#" class="readmore">
                   Read more{" "}
@@ -64,23 +66,23 @@ function Whyus() {
 
         <div class="row counters">
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">274</span>
-            <p>Clients</p>
+            <span data-toggle="counter-up">27,400</span>
+            <p>Customers to date</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">421</span>
-            <p>Projects</p>
+            <span data-toggle="counter-up">6</span>
+            <p>Services Offered</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">1,364</span>
+            <span data-toggle="counter-up">24/7</span>
             <p>Hours Of Support</p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">18</span>
-            <p>Hard Workers</p>
+            <span data-toggle="counter-up">15</span>
+            <p>Employees</p>
           </div>
         </div>
       </div>

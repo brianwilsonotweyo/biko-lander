@@ -7,8 +7,8 @@ function Team() {
         <div class="section-header">
           <h3>Team</h3>
           <p>
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque
+            Some of our dedicated staff who work arround the clock to ensure
+            that our users get the best services that we can offer. You can reach out to them directly in their social media.
           </p>
         </div>
 

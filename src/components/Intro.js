@@ -17,7 +17,7 @@ function Intro() {
             for your business!
           </h2>
           <div>
-            <a href="#about" class="btn-get-started scrollto">
+            <a  class="btn-get-started" data-toggle="modal" data-target="#loginModal">
               Get Started
             </a>
             <a href="#services" class="btn-services scrollto">
