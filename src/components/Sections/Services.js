@@ -19,12 +19,8 @@ function Services() {
               data-wow-duration="1.4s"
             >
               <div class="box">
-                {/* <div class="icon">
-                <i
-                  class="ion-ios-analytics-outline"
-                  style="color: #ff689b;"
-                ></i>
-              </div> */}
+                <div class="icon">
+                </div>
                 <h4 class="title">
                   <a href="">BIKO Car Leasing</a>
                 </h4>
@@ -34,6 +30,7 @@ function Services() {
                 </p>
               </div>
             </div>
+
             <div
               class="col-md-6 col-lg-5 wow bounceInUp"
               data-wow-duration="1.4s"

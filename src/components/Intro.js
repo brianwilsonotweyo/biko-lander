@@ -6,7 +6,7 @@ function Intro() {
     <section id="intro" class="clearfix">
       <div class="container">
         <div class="intro-img">
-          <img src="img/intro-img.gif" alt="" class="img-fluid" />
+          <img src="img/41831-santa-claus-1--unscreen.gif" alt="" class="img-fluid" />
         </div>
 
         <div class="intro-info">
@@ -17,7 +17,7 @@ function Intro() {
             <br />
             for your business!
           </h2>
-          <div>
+          {/* <div>
             <a  class="btn-get-started" data-toggle="modal" data-target="#loginModal">
               Get Started
             </a>
@@ -25,7 +25,7 @@ function Intro() {
               Our Services
             </a>
             <Modal/>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
